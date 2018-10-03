@@ -1,0 +1,24 @@
+{
+  "name": "material-icon-font",
+  "description": "This repo is merely an extract of Google's material icon font but is updated to include all icons up to early October 2018.",
+  "main": "MaterialIcons-Regular.scss",
+  "authors": [
+    "Milan van As <milan@corpoflow.nl>"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "material",
+    "icon",
+    "font",
+    "css",
+    "scss"
+  ],
+  "homepage": "https://github.com/Corpoflow/material-icon-font",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
