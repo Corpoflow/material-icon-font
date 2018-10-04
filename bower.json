@@ -1,5 +1,5 @@
 {
-  "name": "material-icon-font",
+  "name": "corpoflow-material-icon-font",
   "description": "This repo is merely an extract of Google's material icon font but is updated to include all icons up to early October 2018.",
   "main": "MaterialIcons-Regular.scss",
   "authors": [
